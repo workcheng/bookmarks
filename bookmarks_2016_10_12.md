@@ -18,7 +18,7 @@
 ### study
 
 <DL><p>
-    <DT>[网易云课堂 - 领先的实用技能学习平台](http://study.163.com/)
+    [网易云课堂 - 领先的实用技能学习平台](http://study.163.com/)
     <DT>[慕课网-国内最大的IT技能学习平台](http://www.imooc.com/)
     <DT>[极客学院IT在线教育平台-中国最大的IT职业在线教育平台](http://www.jikexueyuan.com/)
     <DT>[实战IT网络培训课程_中国最大的IT实战在线教育培训平台](http://edu.51cto.com/course/courseList/id-all.html)
