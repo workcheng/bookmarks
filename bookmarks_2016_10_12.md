@@ -73,16 +73,12 @@
 ### 工作开发
 
 <DL><p>
-<DT>[V2—区域平台事业部 - Microsoft OneNote Online](https://onedrive.live.com/edit.aspx/%E6%96%87%E6%A1%A3/V2%E2%80%94%E5%8C%BA%E5%9F%9F%E5%B9%B3%E5%8F%B0%E4%BA%8B%E4%B8%9A%E9%83%A8?cid=6d66731b8210e941&id=documents?&)
 <DT>[Sea.js - A Module Loader for the Web](http://seajs.org/docs/#docs)
 <DT>[Beetl2.4使用说明书20160614](http://ibeetl.com/guide/beetl.html#_模板变量)
 <DT>[Dubbo](https://github.com/dubbo)
-<DT>[智业协同办公平台](http://www.zysoft.com.cn:8001/default.aspx)
 <DT>[download-IntelliJ-IDEA13基础教程.pdf](file:///D:/%E8%B0%B7%E6%AD%8C%E4%B8%8B%E8%BD%BD%E7%9B%AE%E5%BD%95/download-IntelliJ-IDEA13%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
 <DT>[Seajs 简易文档](http://yslove.net/seajs/)
 <DT>[Beetl首页、文档和下载 - 新一代java模板引擎典范 - 开源中国社区](http://www.oschina.net/p/beetl)
-<DT>[人口健康信息平台](http://192.168.2.4:8090/frame/index)
-<DT>[我的地盘::我的Bug - 禅道](http://192.168.6.139/zentao/my-bug.html)
 <DT>[_GB_.PDF](http://www.intsci.ac.cn/users/luojw/ebook/ThinkinJava.pdf)
 <DT>[javaweb-springmvc项目中springmvc.xml文件配置错误？——CSDN问答频道](http://ask.csdn.net/questions/249307)
 <DT>[Java经典书籍推荐 - 爱程序网](http://www.aichengxu.com/view/34866)
